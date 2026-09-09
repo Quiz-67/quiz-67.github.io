@@ -1,3 +1,1 @@
-# Add your line from AdSense (Sites > quiz-67.github.io > "View site" banner, or
-# Account > Account information) once approved, e.g.:
-# google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
+google.com, pub-5250710037147850, DIRECT, f08c47fec0942fa0
